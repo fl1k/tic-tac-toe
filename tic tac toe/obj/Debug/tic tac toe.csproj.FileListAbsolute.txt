@@ -1,0 +1,10 @@
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csprojAssemblyReference.cache
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Form1.resources
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.cache
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+c:\users\fl1k\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
